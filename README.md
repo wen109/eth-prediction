@@ -1,4 +1,4 @@
-# 📈: ETH Price Prediction using XGBoost
+# 📈 ETH Price Prediction using XGBoost
 
 ## 📌 Project Overview
 
@@ -6,17 +6,17 @@ This project applies machine learning techniques to predict the future trend of 
 The goal is to explore how machine learning can assist in financial signal prediction and gain insights into the most informative features for ETH price movements.
 
 ## ⚙️ Key Techniques
--** Data Preprocessing**: Scaling, feature selection, and transformation
-** Time Series Modeling**: Using TimeSeriesSplit for realistic backtesting
-** XGBoost Classfier**: Optimized with RandomizedSearchCV
--** Feature Importance Analysis**: Idenfifying predictive attributes
-** Evaluation Metrics**: Accuracy Ratio, AUC, confusion matrix on test data
+  - ** Data Preprocessing**: Scaling, feature selection, and transformation
+  - ** Time Series Modeling**: Using TimeSeriesSplit for realistic backtesting
+  - ** XGBoost Classfier**: Optimized with RandomizedSearchCV
+  - ** Feature Importance Analysis**: Idenfifying predictive attributes
+  - ** Evaluation Metrics**: Accuracy Ratio, AUC, confusion matrix on test data
 
 ## 🧰Libraries Used
--pandas,numpy
--scikit-learn
--XGBoost
--matplotlib
+- pandas,numpy
+- scikit-learn
+- XGBoost
+- matplotlib
 
 
 
